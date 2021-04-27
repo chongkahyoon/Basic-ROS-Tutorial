@@ -1,5 +1,0 @@
-<launch>
-  <node name="soundplay_node" pkg="sound_play" type="soundplay_node.py"/>
-  <node name="publisher" pkg="assignment2" type="publisher.py" output="screen"/>
-  <node name="listener" pkg="assignment2" type="listener.py" output="screen"/>
-</launch>
