@@ -1,4 +1,4 @@
 # Robocup-Assignment
 
 pocketsphinx:
-https://github.com/Pankaj-Baranwal/pocketsphinx/tree/kinetic-devel/demo
+https://github.com/Pankaj-Baranwal/pocketsphinx
