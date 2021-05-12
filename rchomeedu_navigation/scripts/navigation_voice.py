@@ -108,7 +108,7 @@ class NavToPoint:
                 global start
                 start = 0
 
-        # After reached point A, robot will go back to initial position
+        # After reached point A, robot will go back to point B
         if msg.data.find('BATH ROOM')>-1:
             rospy.loginfo("Going bedroom")
             rospy.sleep(2)
